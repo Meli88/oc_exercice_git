@@ -6,5 +6,5 @@ $doc->load('employes.xml');
 if ($doc->schemaValidate('employes.xsd')) {    
     echo 'fichier valide';
 } else { 
-    echo 'fichier invalide';   
+    echo 'Erreur : fichier invalide, vérifier le format des données de employes.xml';   
 }
