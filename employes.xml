@@ -39,4 +39,14 @@
 			<pays>France</pays>
  	</adresse>
 	</employe>
+	<employe id="5">
+		<nom>Leger</nom>
+		<prenom>Justin</prenom>
+		<adresse type="personnelle">
+			<voie>rue des artistes</voie>
+			<cp>54000</cp>
+			<ville>Nancy</ville>
+			<pays>France</pays>
+ 	</adresse>
+	</employe>
 </employes>
