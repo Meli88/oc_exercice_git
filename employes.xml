@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employes>
+	<employe id="1">
+		<nom>Dumoulin</nom>
+		<prenom>Olivier</prenom>
+		<adresse type="personnelle">
+			<voie>Ile du Saulcy</voie>
+			<cp>57000</cp>
+			<ville>Metz</ville>
+			<pays>France</pays>
+ 	</adresse>
+	</employe>
+	<employe id="2" status="nouveau">
+		<nom>Dupont</nom>
+		<prenom>Pierre</prenom>
+		<adresse type="professionnelle">
+			<voie>route de thionville</voie>
+			<cp>54000</cp>
+			<ville>Nancy</ville>
+ 	</adresse>
+	</employe>
+	<employe id="3">
+		<nom>Durant</nom>
+		<prenom>François</prenom>
+		<adresse type="personnelle">
+			<voie>route d’Esch</voie>
+			<cp>LU-4789</cp>
+			<ville>Luxembourg</ville>
+			<pays>Luxembourg</pays>
+ 	</adresse>
+	</employe>
+	<employe id="4">
+		<nom>Janin</nom>
+		<prenom>Eve</prenom>
+		<adresse type="personnelle">
+			<voie>rue des singes</voie>
+			<cp>57000</cp>
+			<ville>Metz</ville>
+			<pays>France</pays>
+ 	</adresse>
+	</employe>
+</employes>
